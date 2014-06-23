@@ -1,0 +1,4 @@
+name: stockVis
+account: twitteranalysis
+bundleId: 24522
+url: http://twitteranalysis.shinyapps.io/stockVis
